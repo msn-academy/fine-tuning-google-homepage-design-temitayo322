@@ -1,0 +1,116 @@
+footer{
+background-color: #999;
+}
+.world-cup-image{
+width: 100%;
+}
+.input-group img{
+width: 20px;
+}
+
+header ul , footer ul {
+list-style-type: none;
+  display: flex;
+  justify-content:space-between;
+   width: 250px;
+}
+
+   header { padding-left: 10px;
+  padding-right: 10px;
+}
+.main{margin:auto 0 }
+footer ul { 
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0px;
+  width: 250px;
+  list-style-type: none;
+
+}
+footer {display: flex;
+  justify-content: space-between;
+  margin-top:50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+main{width: 600px;
+margin: auto;
+}
+main > img {margin-bottom: 20px;
+
+}
+ main form input { padding: 15px 10px;
+width: 90%;
+border: 0; 
+font-size:16px;
+outline: none;
+}
+
+main form .input-group {background-color: #fff;
+padding: 0;
+border: 1px solid #ddd;
+margin-bottom: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+.useful-links {
+  margin-top: 30px;
+  text-align: center;
+
+}
+.button-group {text-align: center;
+}
+
+main form .input-group img {
+vertical-align: middle;
+}
+
+.button-group {
+  text-align: center;
+}
+
+.button-group button:first-child {
+  margin-right: 10px;
+}
+
+.button-group button {
+  padding: 10px 15px;
+  font-weight: bold;
+  color: #999;
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+
+.button-group button:hover {
+  color: #000;
+  border: 1px solid #ddd;
+}
+
+.useful-links ul {
+  list-style-type: none;
+  padding: 0;
+  display: inline-flex;
+  width: 250px;
+  justify-content: space-evenly;
+}
+
+.useful-links {
+  text-align: center;
+  margin-top: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+* {
+  box-sizing: border-box;
+}
+ body {margin: 0px;
+padding:0px;}
+ 
+ a:hover{ text-decoration: underline
+}
+
